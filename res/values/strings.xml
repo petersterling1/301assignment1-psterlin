@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">psterlin-Assignment1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_item">Add Item</string>
+    <string name="title_activity_archive">Archive Items</string>
+    <string name="title_activity_delete">Delete Items</string>
+    <string name="title_activity_unarchive">Unarchive Items</string>
+    <string name="title_activity_summary">Summary</string>
+    <string name="title_activity_email">Email Items</string>
+    <string name="title_activity_view_archive">Archived Items</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item android:id="@+id/add_item" android:title="Add" />    
+	<item android:id="@+id/delete_item" android:title="Delete" />
+	<item android:id="@+id/view_archive" android:title="View Archive" />
+	<item android:id="@+id/archive_item" android:title="Archive Items" />
+	<item android:id="@+id/unarchive_item" android:title="Unarchive Items" />
+	<item android:id="@+id/email_item" android:title="Email Items" />    
+	<item android:id="@+id/summarize" android:title="Summarize" />    
+</menu>
